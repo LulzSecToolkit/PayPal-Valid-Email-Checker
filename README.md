@@ -6,7 +6,6 @@
 
 Valid Email Checker
 
-<img src="https://i.imgur.com/QhXFV2V.png" data-canonical-src="https://i.imgur.com/QhXFV2V.png" style="max-width:100%;">
 
 <h2>Usage</h2>
 <code>check.py</code>
